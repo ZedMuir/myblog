@@ -1,6 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
+:root {
+  --yellow: #ffc600;
+  --pink: #f593bb;
+  --darkPink: #ff4193;
+  --black: #202020;
+  --grey: rgb(189, 185, 185);
+}
+
 html { height: 100%; }
 
 body {
@@ -62,6 +70,13 @@ img {
   max-width: 100%;
   display: block;
   margin: 0 auto;
+}
+figcaption {
+  font-style: italic;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 10px;
+  color: var(--pink);
 }
 html {
     --bg: #FFF;
