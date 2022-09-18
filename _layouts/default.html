@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: "en" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
         {%- include head.html -%}
+
+<!-- Add following div tag where you want show soopr share buttons -->
+<div class='soopr-btn'></div>
+
+<!-- Just before body tag add this line -->
+<script async defer data-soopr-token='pt_8ccfc0a4710066b64bbf8c9abd53b890' src='https://sdk.soopr.co/soopr.js'></script>
+  
   <body>
     <main class="page-content" aria-label="Content">
       <div class="w">
