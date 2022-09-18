@@ -95,7 +95,7 @@ figcaption {
       --links: #feae25;
       --highlight: #42f831;
       --bg: #1f242A;
-      --bg-secondary: #323945;
+      --bg-secondary: #61666e;
       --text: #adb5bd;
       --code-text: #16c20d;
       --share-text: #C4C4C4;
@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
 p, strong, b, em, small, li, hr, table, figcaption {
     color: var(--text);
 }
-.highlight, pre code, blockquote {
+.highlight, pre code, blockquote, img {
   border-radius: 0.5em;
 }
 blockquote {
