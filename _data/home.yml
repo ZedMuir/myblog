@@ -19,7 +19,7 @@ project_entries:
     desc: Current live website of Greydells Accounting Services
 
   - title: SASC Comrades
-    url: https:zedmuir.github.io/sasccomrades
+    url: https://zedmuir.github.io/sasccomrades
     desc: Draft site design for the SASC Comrades website
     highlight: WIP
 
