@@ -4,7 +4,7 @@
 :root {
   --yellow: #ffc600;
   --pink: #f593bb;
-  --darkPink: #ff4193;
+  --orange: #f77b29;
   --black: #202020;
   --grey: rgb(189, 185, 185);
 }
@@ -71,13 +71,6 @@ img {
   display: block;
   margin: 0 auto;
 }
-figcaption {
-  font-style: italic;
-  font-size: 15px;
-  text-align: center;
-  margin-top: 10px;
-  color: var(--pink);
-}
 html {
     --bg: #FFF;
     --bg-secondary: #f8f8f8;
@@ -87,6 +80,13 @@ html {
     --highlight: #FFECB2; // light yellow
     --code-text: #9D174D;
     --share-text: #999;
+}
+figcaption {
+  font-style: italic;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 10px;
+  color: var(--orange);
 }
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
@@ -99,6 +99,13 @@ html {
       --text: #adb5bd;
       --code-text: #16c20d;
       --share-text: #C4C4C4;
+  };
+  figcaption {
+    font-style: italic;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 10px;
+    color: var(--orange);
   };
 }
 html[data-theme="dark"] { @include dark-appearance; }
