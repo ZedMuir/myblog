@@ -49,6 +49,9 @@ footer_entries:
   - title: github
     url: https://github.com/zedmuir
 
+  - title: linkdin
+    url: https://www.linkedin.com/in/zedmuir
+
 # misc_entries:
 #   - title: this is an example vertical list
 #     url: false
