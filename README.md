@@ -1,4 +1,4 @@
-## my blog sire based on the moonwalk theme
+## my blog site based on the moonwalk theme
 
 <img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/moonwalk.png" />
 
