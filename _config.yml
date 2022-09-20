@@ -1,6 +1,6 @@
 title: Zed's thoughts...
 author: Zed Muir
-url: /myblog # root address of the site
+# url: /myblog # root address of the site
 description: > # description of the site (multiple lines allowed)
   Welcome to my blog.  Here you will find random posts on politics, coding and other subjects that I decide to rant about.  For more details on me see the about page.  
 permalink: /:slug
