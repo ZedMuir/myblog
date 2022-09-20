@@ -16,7 +16,7 @@ After reading this work, and doing some research afterwards, I now have my doubt
   - How is it the technology in 60s/70s can do it but not todays technology?
   - How did they get there, spend time on the moon, then get back in just a week? Today's estimates are longer than 2 weeks!
 
-There are many more but I'm not here to list them all; I just hope that I have raised your interest to have a read of the feature by Dave as puts it better than I ever could. 
+There are many more but I'm not here to list them all; I just hope that I have raised your interest to have a read of the feature by Dave as he puts it better than I ever could. 
 
 Enjoy and take care. 
 
