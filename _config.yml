@@ -5,7 +5,7 @@ description: > # description of the site (multiple lines allowed)
   Welcome to my blog.  Here you will find random posts on politics, coding and other subjects that I decide to rant about.  For more details on me see the about page.  
 permalink: /:slug
 
-favicon: "./default.png" # relative path to site's favicon
+favicon: "images/favicon.ico" # relative path to site's favicon
 
 twitter:
     username: zedmuir77 # update or delete this
