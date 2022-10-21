@@ -12,7 +12,7 @@ So, now heading back on the **'Airbridge'** after just over 3 weeks on the Islan
 
 Been a very busy visit mostly focused on getting to terms with the job and the very nuanced approach required with training so far from home. Policy documents are my only friends now!! Although I spent all of the weekends here in the office playing catch-up, I still managed to spot a few things whilst here. 
 
-On the first or maybe second day, I saw the Caracara. The tinter-web suggests it is **rare** but I saw it several times. Beautiful bird that the locals call the **Jonnyrook** (may be spelt slightly different) for reasosn that I do not know. 
+On the first or maybe second day, I saw the Caracara. The tinter-web suggests it is **rare** but I saw it several times. Beautiful bird that the locals call the **Jonnyrook** (may be spelt slightly different) for reasons that I do not know. 
 
 ![photo of a caracara](images/falklands-first-visit/caracara.png)
 <figcaption>Beautiful yet menacing looking Caracara</figcaption>
