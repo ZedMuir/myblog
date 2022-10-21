@@ -32,7 +32,7 @@ Those moody clouds do allow for some stunning views, like when the sun god thrus
 ![sun rays bursting through clouds](images/falklands-first-visit/sunrays-moody.jpeg)
 <figcaption>Ra shows the Falklands the true form of light</figcaption>
 
-Another bird that got pretty close and said hello was the Turkey Vulture. Was walking back inside the building that houses the shoebox they call a room, when 3 of these 'orrible looking beasts scared the shit out of me!! Startled is much more accurate as there was no need to change any underwear, but still, it was a close call. When I was only a metre or so away, I must of sttartled them so they went one better and made me jump. 
+Another bird that got pretty close and said hello was the Turkey Vulture. Was walking back inside the building that houses the shoebox they call a room, when 3 of these 'orrible looking beasts scared the shit out of me!! Startled is much more accurate as there was no need to change any underwear, but still, it was a close call. When I was only a metre or so away, I must of startled them so they went one better and made me jump. 
 
 I don't really think they're horrible or ugly, but they are certainly not as charismatic or hansome compared to that glorious looking Caracara. Just saying, if I had to choose a bird for life, the Turkey Vulture is not likely to make the short-list. Couple of pics below of the tricky trio who almost caused an evacuation of the unwanted kind:
 
