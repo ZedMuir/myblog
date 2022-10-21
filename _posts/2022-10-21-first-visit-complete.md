@@ -42,7 +42,7 @@ I don't really think they're horrible or ugly, but they are certainly not as cha
 ![lone turkey vulture on a tin-roof](images/falklands-first-visit/turkey-vulture.jpeg)
 <figcaption>The third, and most guilty looking, of the gang</figcaption>
 
-The 3 weeks weren't all work though; I managed to get around the *city* of Stanley for a couple of hours when Van had to take his car in for a service. Very small, very cute. Looking forward to getting there again in the future and having a good walkabout with my Yassi and Fred. I didn't get any photos of the city but did get to see Yorke Bay and Gypsy Cove. This is where I was given a real treat and saw my first real-life wild penguin. So cool, made me giggle like a child and it felt good. Couldn't believe how gorgeous they are and how close us humans get. Only seen one type so far and that is the sweet little Megallanic penguin as seen below: 
+The 3 weeks weren't all work though; I managed to get around the *city* of Stanley for a couple of hours when Van had to take his car in for a service. Very small, very cute. Not Van or his car but Stanley. Looking forward to getting there again in the future and having a good walkabout with my Yassi and Fred. I didn't get any photos of the city but did get to see Yorke Bay and Gypsy Cove. This is where I was given a real treat and saw my first real-life wild penguin. So cool, made me giggle like a child and it felt good. Couldn't believe how gorgeous they are and how close us humans get. Only seen one type so far and that is the sweet little Megallanic penguin as seen below: 
 
 ![megallanic penguin in gypsy cove](images/falklands-first-visit/megallanic-penguin-1.jpeg)
 <figcaption>At first, I swear I thought it was a statue!</figcaption>
