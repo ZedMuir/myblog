@@ -102,3 +102,5 @@ Well, that is it for this entry. From up on high, a quick goobye to the Falkland
 Peas and love to all of you mosst wonderful readers
 
 ***Zed***
+
+*P.S. I wrote this on the plane and uploaded once arrived at Cape Verde.*
