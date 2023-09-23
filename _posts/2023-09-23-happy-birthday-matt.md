@@ -3,7 +3,7 @@ layout: post
 author: Zed Muir
 ---
 
-##Happy Birthday to my good friend Matt...
+## Happy Birthday to my good friend Matt...
 
 I know I am guilty of not speaking to my friends often enough, even though I don't have many true friends. This however, is not a piece of text written so that I can profess my excuses to the world.
 
