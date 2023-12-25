@@ -2,14 +2,13 @@ title: Zed's thoughts...
 author: Zed Muir
 # url: /myblog # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Welcome to my blog.  Here you will find random posts on politics, coding and other subjects that I decide to rant about.  For more details on me see the about page.  
+  Welcome to my blog.  Here you will find random posts on politics, coding and other subjects that I decide to rant about.  For more details on me see the about page.
 permalink: /:slug
-
 favicon: "images/favicon.ico" # relative path to site's favicon
 
 twitter:
-    username: zedmuir77 # update or delete this
-    card: summary_large_image
+  username: zedmuir77 # update or delete this
+  card: summary_large_image
 
 theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 #remote_theme: abhinavs/moonwalk
@@ -41,7 +40,7 @@ soopr:
 highlighter: rouge
 
 sass:
-  style: :compressed
+  style: compressed
 
 plugins:
   - jekyll-feed
