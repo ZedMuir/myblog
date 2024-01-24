@@ -15,7 +15,7 @@ I consider myself to be extremely lucky because I have found true love with my w
 
 As of 29 September, we have the addition of Stanley Muir to our family unit. 🥰🥰
 
-![Stanley posing for his passport!](images/stan.jpeg)
+![Stanley posing for his passport!](images/stan.jpg)
 
 <figcaption>Stanley's passport photo!</figcaption>
 
@@ -46,4 +46,3 @@ I also enjoy watching/learning chess, reading books and watching documentaries.
 This blog has been built using the [Moonwalk](https://abhinavs.github.io/moonwalk/) theme created by [Abhinav Saxena](https://www.abhinav.co/about/).
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
